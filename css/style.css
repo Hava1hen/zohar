@@ -1,5 +1,4 @@
 /*elements*/
-
 body {
   margin: 0;
   text-align: center;
@@ -14,10 +13,14 @@ h1 {
 
 h2 {
   font-size: 2rem;
+  font-weight: normal;
+}
+
+a:link {
+  color: #70704A;
 }
 
 /* classes */
-
 .top-container {
   background-color: #efee9d;
   padding-top: 100px;
