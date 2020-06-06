@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+}
+
+h1 {
+  padding-top: 50px;
+}
+
+.top-container {
+  background-color: #efee9d;
+  padding-top: 100px;
+  position: relative;
+}
+
+.topcloud {
+  position: absolute;
+right: 300px;
+}
+
+.cloud {
+  position: absolute;
+  left: 200px;
+}
+
+.middle-container{
+background-color: #B6BCF0;
+}
+.bottom-container {
+    background-color:#C3F0AA;
+}
